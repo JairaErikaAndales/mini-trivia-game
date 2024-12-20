@@ -1,0 +1,16 @@
+{
+    "name": "Trivia Game",
+    "short_name": "Trivia",
+    "description": "A simple Trivia Game with Service Worker and Manifest JSON",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
